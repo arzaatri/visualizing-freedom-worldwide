@@ -2,6 +2,8 @@
 
 #### File Descriptions:
 
+Simple EDA and interactive visualization on the UN's economic and social freedom reports.
+
 * 2020_dsga1007_group07_main.ipynb contains the full code used in this project
 * Countries.ipynb: Contains an example plotly map with selectable features to visualize
 * Time_series_example_for_Economic_freedom.ipynb: Using two datasets to show correlation b/w life expectancy and economic freedom
