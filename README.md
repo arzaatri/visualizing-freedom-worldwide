@@ -8,3 +8,13 @@ Simple EDA and interactive visualization on the UN's economic and social freedom
 * Countries.ipynb: Contains an example plotly map with selectable features to visualize
 * Time_series_example_for_Economic_freedom.ipynb: Using two datasets to show correlation b/w life expectancy and economic freedom
 * Preprocessing.ipynb                           : Standard initial step to preprocess data 
+
+Visualize various economic and social freedom metrics geographically:
+
+![](https://github.com/arzaatri/visualizing-freedom-worldwide/blob/main/images/1.png)
+
+![](https://github.com/arzaatri/visualizing-freedom-worldwide/blob/main/images/2.png)
+
+And how they change over time:
+
+![](https://github.com/arzaatri/visualizing-freedom-worldwide/blob/main/images/3.gif)
